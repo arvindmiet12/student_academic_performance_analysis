@@ -1,0 +1,481 @@
+student_id,school,grade,gender,study_hours,attendance_rate,assignment_completion,parent_education,internet_access,previous_score,final_score,assessment_date,enrollment_year
+STU-0001,Central High,9,Male,7.9,71.5,53.6,Bachelor's,Yes,82.1,71.3,28-08-2024,2022
+STU-0002,Central High,12,Male,10,94.6,84,Some college,Yes,67.7,63.4,27-10-2024,2023
+STU-0003,Northview High,11,Male,8.9,100,86.2,High school,Yes,60.6,65.9,01-03-2024,2021
+STU-0004,Riverside Academy,10,Female,12,100,97.7,High school,Yes,85.9,94.3,01-01-2024,2024
+STU-0005,Westfield School,10,Female,8.4,73.4,100,Graduate,Yes,80.8,79.9,26-11-2024,2023
+STU-0006,Central High,12,Female,7.7,94.5,100,Some college,Yes,47.5,67.7,29-06-2024,2024
+STU-0007,Westfield School,9,Male,11.7,100,69,Graduate,No,65.6,69.3,27-09-2024,2020
+STU-0008,Riverside Academy,11,Male,10.1,83.9,77.4,High school,Yes,72.3,72.2,31-03-2024,2023
+STU-0009,Riverside Academy,9,Male,10.5,88.9,88.2,Bachelor's,Yes,80.9,87.2,31-03-2024,2024
+STU-0010,Riverside Academy,9,Female,6.1,69.9,100,High school,Yes,82.7,82,01-03-2024,2022
+STU-0011,Westfield School,11,Female,4.9,90.4,100,Some college,Yes,74,51.5,01-03-2024,2021
+STU-0012,Central High,12,Female,6.4,78.4,96.6,High school,Yes,78.2,66,30-05-2024,2021
+STU-0013,Riverside Academy,11,Female,6.2,89.8,77,High school,Yes,70.9,71.6,31-01-2024,2021
+STU-0014,Northview High,12,Female,10.7,73.9,70.5,Graduate,No,60.6,70.4,27-10-2024,2022
+STU-0015,Northview High,11,Male,11.3,92.9,92.3,Some college,Yes,66.3,84.9,29-06-2024,2022
+STU-0016,Westfield School,12,Female,7.7,97.2,67.7,Bachelor's,Yes,70.3,76.6,27-10-2024,2021
+STU-0017,Central High,11,Male,12.8,81,78.9,Some college,Yes,69.5,75.3,29-06-2024,2023
+STU-0018,Northview High,9,Female,12.6,77.8,80.5,Some college,Yes,43.6,65.9,31-03-2024,2020
+STU-0019,Northview High,12,Female,9,68.6,100,Bachelor's,No,64.4,70.4,29-06-2024,2022
+STU-0020,Westfield School,10,Male,5.6,85.6,77.4,High school,Yes,70.8,76.5,31-01-2024,2023
+STU-0021,Northview High,11,Male,13.2,82.8,50.3,Graduate,Yes,66.1,72.6,27-09-2024,2021
+STU-0022,Central High,10,Female,8,74,88.6,Bachelor's,Yes,66.5,72.9,28-08-2024,2021
+STU-0023,Riverside Academy,9,Female,8.6,92.1,72.9,Bachelor's,Yes,76.8,80.9,31-01-2024,2021
+STU-0024,Northview High,12,Female,7.1,84,82.6,Some college,Yes,54.9,82.8,29-06-2024,2020
+STU-0025,Central High,12,Male,5.4,78.3,80.9,High school,Yes,47.2,56.4,29-06-2024,2023
+STU-0026,Northview High,11,Female,3.5,83,78.4,Graduate,Yes,65.1,79.7,01-03-2024,2020
+STU-0027,Northview High,10,Male,10.2,97.6,92.3,Some college,Yes,80.7,96.5,31-01-2024,2021
+STU-0028,Northview High,12,Female,5.7,93.4,62.1,High school,Yes,93.6,76.8,27-09-2024,2024
+STU-0029,Northview High,11,Male,18,86.8,75.3,Some college,Yes,80.9,88.6,31-03-2024,2024
+STU-0030,Northview High,10,Female,4.7,93.6,90.9,Bachelor's,Yes,49.4,67.3,29-06-2024,2021
+STU-0031,Northview High,10,Male,4.2,77.6,74,Bachelor's,No,66.7,63.4,01-03-2024,2022
+STU-0032,Northview High,9,Male,9.8,88.3,61.1,Bachelor's,Yes,73.6,85.9,29-07-2024,2022
+STU-0033,Northview High,9,Female,13.1,89.3,90.7,Bachelor's,Yes,72.5,88.6,01-01-2024,2024
+STU-0034,Westfield School,11,Female,8.4,83.8,96.6,High school,Yes,77.6,76.8,30-04-2024,2024
+STU-0035,Westfield School,12,Male,10,91.9,81.4,Graduate,Yes,57.2,65.5,29-06-2024,2021
+STU-0036,Riverside Academy,9,Female,2.3,81,56.5,Some college,Yes,70.9,55.2,30-05-2024,2021
+STU-0037,Riverside Academy,12,Female,6,92.6,91.2,Bachelor's,Yes,75.9,97.2,29-07-2024,2022
+STU-0038,Riverside Academy,12,Female,4.8,93,60.4,High school,No,81.6,64.9,01-03-2024,2024
+STU-0039,Central High,10,Female,2.1,61.7,86,Graduate,Yes,58.7,56.1,30-05-2024,2024
+STU-0040,Central High,11,Female,8.6,98.7,70.5,Some college,Yes,65.2,86,27-09-2024,2020
+STU-0041,Northview High,9,Female,1,60.6,66.9,High school,Yes,32.1,47.7,30-04-2024,2023
+STU-0042,Northview High,12,Female,4,82.5,76.3,Some college,Yes,61.3,71.7,31-01-2024,2021
+STU-0043,Northview High,11,Female,6.5,97.2,79.6,High school,Yes,62.7,70,27-10-2024,2023
+STU-0044,Northview High,10,Female,5.5,85.1,73.6,High school,Yes,55.7,61.7,27-09-2024,2024
+STU-0045,Westfield School,9,Female,9.5,74.8,89.7,Bachelor's,Yes,72.3,74.4,28-08-2024,2022
+STU-0046,Riverside Academy,12,Male,9.2,78.2,76.2,Some college,Yes,69.2,61.4,27-09-2024,2020
+STU-0047,Northview High,10,Female,11.1,97.2,94.7,Graduate,No,38.4,71.7,27-09-2024,2023
+STU-0048,Riverside Academy,12,Female,10.6,70.7,85.7,Some college,Yes,73,78.5,28-08-2024,2022
+STU-0049,Riverside Academy,11,Female,11.9,98.2,72.9,Bachelor's,No,57,89.3,29-06-2024,2024
+STU-0050,Northview High,12,Male,8.2,87.5,70.7,Some college,Yes,76.8,77.9,01-01-2024,2022
+STU-0051,Central High,12,Female,9.2,77.3,60.6,Bachelor's,Yes,52.1,46.4,29-07-2024,2024
+STU-0052,Northview High,9,Female,9.8,82.8,85.8,Bachelor's,Yes,70.4,79.4,31-03-2024,2021
+STU-0053,Central High,10,Female,8.7,78.8,77.4,Some college,Yes,66,94.6,27-09-2024,2021
+STU-0054,Northview High,10,Female,6.9,95.8,51.2,Graduate,Yes,74.2,84.4,30-05-2024,2022
+STU-0055,Central High,10,Female,7.1,94.6,75,Some college,Yes,71.7,67.4,27-10-2024,2020
+STU-0056,Central High,9,Female,5.6,72.5,70.3,High school,Yes,66.4,68.1,29-07-2024,2022
+STU-0057,Central High,11,Male,9.5,84.4,100,Bachelor's,Yes,48.5,66.5,29-06-2024,2023
+STU-0058,Central High,9,Male,7.9,80.2,59.9,Bachelor's,Yes,49.3,52.9,26-11-2024,2021
+STU-0059,Westfield School,11,Female,6.1,99.6,63.3,High school,Yes,61.8,62,30-05-2024,2020
+STU-0060,Westfield School,11,Male,6.1,75.8,96.4,Some college,Yes,69.9,71.2,30-04-2024,2021
+STU-0061,Westfield School,12,Male,4.3,100,99.6,Graduate,Yes,61.5,58.4,30-04-2024,2020
+STU-0062,Northview High,11,Female,11.3,87.7,72.3,Bachelor's,No,78.8,69.9,27-10-2024,2024
+STU-0063,Riverside Academy,10,Female,8.5,77.5,73.8,Graduate,Yes,66.1,74.4,27-09-2024,2024
+STU-0064,Riverside Academy,12,Female,5.4,81.9,90,Bachelor's,Yes,56.5,65.9,31-01-2024,2020
+STU-0065,Central High,10,Male,10.8,80.8,51.7,Bachelor's,Yes,66.1,75.7,30-05-2024,2024
+STU-0066,Riverside Academy,10,Female,6.4,76.5,57.8,Some college,Yes,73.2,57.9,30-04-2024,2024
+STU-0067,Riverside Academy,12,Male,3.7,88.9,78.4,Graduate,Yes,74.5,80.7,29-07-2024,2024
+STU-0068,Westfield School,10,Female,11.5,76.9,100,Some college,Yes,96.3,76.3,01-01-2024,2022
+STU-0069,Northview High,9,Male,6.5,68.4,76.3,Bachelor's,Yes,60.6,82.7,28-08-2024,2022
+STU-0070,Northview High,10,Male,6.9,84.6,83.3,Some college,Yes,69,59.7,28-08-2024,2022
+STU-0071,Riverside Academy,12,Female,8.3,71.8,96.7,Bachelor's,Yes,76,69,01-03-2024,2024
+STU-0072,Riverside Academy,9,Female,11.9,81.2,100,Bachelor's,Yes,69.7,86.1,31-01-2024,2024
+STU-0073,Northview High,10,Male,8.3,79.8,74.5,Some college,Yes,63,85.7,29-07-2024,2023
+STU-0074,Riverside Academy,9,Female,4.4,80.2,81.8,Graduate,Yes,48.3,67.9,31-03-2024,2021
+STU-0075,Riverside Academy,11,Female,9.9,100,100,Some college,No,62.8,80.6,26-11-2024,2024
+STU-0076,Riverside Academy,10,Male,6.6,88.5,62.2,Bachelor's,Yes,55,67.5,27-09-2024,2024
+STU-0077,Riverside Academy,10,Female,14.2,90.2,95.4,Some college,Yes,45.8,67.6,26-11-2024,2022
+STU-0078,Westfield School,9,Female,8.2,72,68.8,Some college,No,58.9,56,29-06-2024,2023
+STU-0079,Riverside Academy,11,Female,1,82.1,83.3,Some college,Yes,55.3,50.6,26-11-2024,2022
+STU-0080,Central High,11,Female,9.3,89.9,78.8,High school,Yes,78.2,65.3,01-01-2024,2023
+STU-0081,Central High,12,Male,14.4,78.8,69.5,High school,Yes,78.4,81.8,31-03-2024,2023
+STU-0082,Riverside Academy,10,Male,13.2,96.2,69.2,Bachelor's,Yes,57.3,68.8,01-01-2024,2024
+STU-0083,Riverside Academy,9,Female,14.1,77.2,85.6,Bachelor's,No,66.4,79.7,28-08-2024,2024
+STU-0084,Riverside Academy,12,Female,4.9,85.4,94.9,Bachelor's,Yes,44,54.9,29-06-2024,2022
+STU-0085,Central High,11,Male,11.1,82.7,80.3,High school,Yes,63.1,74.3,31-03-2024,2022
+STU-0086,Westfield School,11,Female,5.9,89.5,82.9,Some college,Yes,75.6,68.7,31-03-2024,2022
+STU-0087,Central High,9,Female,8.9,82.2,89.4,High school,Yes,81.5,88.8,29-07-2024,2021
+STU-0088,Riverside Academy,10,Female,4.1,85.6,69.4,Bachelor's,Yes,60,69.4,01-03-2024,2022
+STU-0089,Westfield School,12,Female,6.1,85.9,91.6,Graduate,Yes,84.7,90.8,29-06-2024,2020
+STU-0090,Northview High,12,Male,6,81.4,92.7,Some college,Yes,48.8,60.8,29-07-2024,2022
+STU-0091,Westfield School,10,Female,11.1,92.4,100,Bachelor's,Yes,52.5,76.5,01-03-2024,2021
+STU-0092,Northview High,12,Female,10.8,90.1,77.1,High school,Yes,79.9,71.8,01-03-2024,2022
+STU-0093,Westfield School,12,Male,9.1,87.2,76,Some college,Yes,93.4,77.5,30-04-2024,2024
+STU-0094,Central High,10,Female,3.9,84.1,92,High school,Yes,76.9,68,29-07-2024,2021
+STU-0095,Northview High,12,Male,7.2,95.2,92.6,Some college,Yes,69.4,72.2,31-03-2024,2023
+STU-0096,Westfield School,10,Female,5.8,85.9,75,Bachelor's,Yes,39.3,50.1,30-04-2024,2024
+STU-0097,Northview High,9,Female,11,85.2,76.8,Graduate,Yes,41.7,60.4,29-06-2024,2023
+STU-0098,Westfield School,11,Female,12,88.9,89,High school,Yes,71.8,56.9,01-03-2024,2021
+STU-0099,Northview High,11,Male,11.6,100,71.2,Bachelor's,Yes,65,72.6,29-06-2024,2022
+STU-0100,Central High,9,Male,5.8,75.9,76.7,Bachelor's,Yes,54.5,70.7,31-01-2024,2023
+STU-0101,Northview High,12,Female,1,94.9,83.2,Graduate,Yes,70.9,60.1,31-01-2024,2023
+STU-0102,Central High,9,Female,2.5,71,94.9,Bachelor's,Yes,71.6,57.6,01-03-2024,2021
+STU-0103,Central High,12,Female,12.7,90,74.1,Some college,Yes,83.2,98.8,31-03-2024,2022
+STU-0104,Westfield School,9,Male,6.9,100,58,Bachelor's,Yes,71.9,67.7,01-01-2024,2023
+STU-0105,Central High,12,Female,5.8,92.4,57.1,Some college,Yes,87.2,77.6,26-11-2024,2021
+STU-0106,Central High,12,Male,13.5,89.5,65.6,Graduate,Yes,70.1,87.5,31-03-2024,2023
+STU-0107,Central High,12,Male,12.2,83,64.9,Some college,Yes,68.4,80.8,27-09-2024,2020
+STU-0108,Northview High,11,Male,8.3,88.3,80,Bachelor's,Yes,84.9,70.6,27-10-2024,2022
+STU-0109,Westfield School,10,Female,7.3,85.7,66.5,High school,Yes,56.3,60.2,27-09-2024,2024
+STU-0110,Northview High,11,Female,7.8,80.9,72.9,Some college,Yes,99,69.5,27-09-2024,2021
+STU-0111,Westfield School,10,Female,8.9,85.4,71.9,Graduate,Yes,75.3,98,31-01-2024,2023
+STU-0112,Northview High,12,Male,13.3,89.8,76.3,Bachelor's,Yes,75.3,72.3,30-04-2024,2022
+STU-0113,Westfield School,11,Male,9.6,81.1,99.2,Some college,Yes,77.4,69.5,28-08-2024,2022
+STU-0114,Westfield School,10,Male,10.5,80.7,90.6,Graduate,Yes,96.3,79.2,29-06-2024,2024
+STU-0115,Riverside Academy,11,Female,11.9,75.8,82.2,Bachelor's,Yes,81.1,70.1,01-01-2024,2022
+STU-0116,Riverside Academy,11,Female,4.5,91.5,76,Some college,Yes,47.5,74.5,29-06-2024,2021
+STU-0117,Westfield School,9,Male,10.6,92.9,76.4,Bachelor's,No,89.6,100,27-09-2024,2024
+STU-0118,Central High,9,Male,7.3,90.1,86.3,Some college,Yes,65.2,68.9,27-09-2024,2024
+STU-0119,Riverside Academy,9,Male,1,96.7,89.6,Bachelor's,Yes,71.5,61,30-04-2024,2023
+STU-0120,Westfield School,9,Male,1.4,88.8,70.2,Some college,Yes,52.1,38.6,01-03-2024,2020
+STU-0121,Central High,10,Female,4.9,91.5,82.5,Some college,No,77.4,68.1,31-03-2024,2021
+STU-0122,Northview High,11,Female,9.9,90.7,55.6,Graduate,Yes,60.9,72.9,31-03-2024,2023
+STU-0123,Northview High,11,Female,8.6,87.2,84.8,Graduate,No,71.4,71.7,30-04-2024,2021
+STU-0124,Northview High,10,Male,8.8,83.2,91.9,Bachelor's,No,66,76.4,31-03-2024,2021
+STU-0125,Westfield School,12,Male,14.4,100,78.4,Graduate,Yes,97,98.2,30-05-2024,2024
+STU-0126,Riverside Academy,11,Female,4.1,83.9,100,Bachelor's,Yes,97.8,86.5,01-01-2024,2022
+STU-0127,Westfield School,9,Male,8.1,82,70.5,Bachelor's,Yes,70.7,69.6,31-03-2024,2020
+STU-0128,Westfield School,12,Male,9.2,91.9,84.8,Bachelor's,Yes,70.9,68.4,31-03-2024,2020
+STU-0129,Riverside Academy,11,Male,5.8,90.3,81.5,Some college,Yes,64.8,76.7,31-01-2024,2022
+STU-0130,Central High,11,Male,8.3,75.4,80.7,Some college,Yes,85.5,77.4,27-10-2024,2023
+STU-0131,Westfield School,11,Female,3.1,98.1,80.5,Some college,Yes,65.4,75,28-08-2024,2024
+STU-0132,Northview High,11,Female,12.7,87.2,83.4,Bachelor's,Yes,64.1,88.6,27-10-2024,2020
+STU-0133,Riverside Academy,9,Male,6,78,93,Some college,Yes,83.7,64.8,29-06-2024,2021
+STU-0134,Riverside Academy,11,Male,14.7,98.7,99.9,Some college,Yes,62.5,72.7,31-01-2024,2023
+STU-0135,Northview High,12,Female,8.1,93.6,82,Bachelor's,Yes,69.5,73,27-10-2024,2022
+STU-0136,Northview High,10,Female,11.5,76.6,92.6,Some college,Yes,47.9,63.2,30-05-2024,2023
+STU-0137,Central High,11,Male,8,100,72.9,High school,Yes,79.9,82.7,28-08-2024,2024
+STU-0138,Riverside Academy,9,Male,8.1,93.9,92,Bachelor's,Yes,97.2,91.9,30-04-2024,2023
+STU-0139,Riverside Academy,10,Female,6.3,87.9,72.1,Graduate,No,80.1,83.8,30-05-2024,2022
+STU-0140,Westfield School,10,Male,8.6,100,96.2,High school,No,90.5,81.9,30-05-2024,2024
+STU-0141,Westfield School,12,Female,9.2,89.4,100,High school,No,58.2,68.5,31-03-2024,2020
+STU-0142,Central High,9,Female,5.7,87.7,80.4,Some college,Yes,73.3,82.8,29-06-2024,2024
+STU-0143,Central High,10,Male,7.8,82.1,53.5,Bachelor's,Yes,56.8,70.2,28-08-2024,2023
+STU-0144,Riverside Academy,10,Female,6.2,93.2,74.9,Bachelor's,Yes,66.8,74.4,01-01-2024,2023
+STU-0145,Riverside Academy,12,Male,15.6,92.3,98,High school,Yes,80.8,100,31-01-2024,2024
+STU-0146,Central High,12,Female,7.9,88.1,89.2,Bachelor's,No,71.4,74.9,27-10-2024,2023
+STU-0147,Westfield School,9,Male,13.1,80.9,85.2,High school,Yes,50.2,66.1,29-06-2024,2022
+STU-0148,Central High,9,Female,7.6,89.2,95.1,Some college,Yes,51.6,62.7,26-11-2024,2021
+STU-0149,Northview High,12,Male,9,87.4,88.3,Graduate,Yes,50.7,81.3,29-07-2024,2023
+STU-0150,Central High,9,Female,4,76,97.8,High school,Yes,76.9,80.1,29-07-2024,2023
+STU-0151,Westfield School,12,Male,6.8,74.8,94,High school,Yes,98.9,77.5,27-10-2024,2021
+STU-0152,Northview High,10,Female,8.9,93.1,100,Some college,Yes,89.1,98.7,29-07-2024,2024
+STU-0153,Westfield School,12,Female,13.3,64.6,86.7,Bachelor's,No,43.5,47.2,31-03-2024,2023
+STU-0154,Westfield School,10,Female,8.9,89.8,93.8,Graduate,Yes,89.9,85.9,29-06-2024,2022
+STU-0155,Northview High,10,Male,12.6,83.7,78,Graduate,Yes,83.1,87.9,01-03-2024,2020
+STU-0156,Riverside Academy,11,Female,10.3,99.8,74.2,High school,Yes,48.4,62.6,30-04-2024,2022
+STU-0157,Central High,9,Male,13.4,83.6,100,High school,Yes,65.8,98.8,28-08-2024,2020
+STU-0158,Riverside Academy,11,Male,8,93.9,84.8,Bachelor's,Yes,85.3,83.2,31-01-2024,2020
+STU-0159,Riverside Academy,11,Male,15.8,84.4,92.5,Some college,Yes,77.7,83.9,28-08-2024,2022
+STU-0160,Riverside Academy,12,Male,6.6,89,83.6,Graduate,Yes,51.7,71.3,29-07-2024,2020
+STU-0161,Riverside Academy,12,Female,5.7,94.6,74.4,Bachelor's,No,78.6,56.4,31-03-2024,2021
+STU-0162,Central High,11,Male,4.3,83.8,82.1,High school,Yes,40.1,50.2,01-01-2024,2023
+STU-0163,Central High,10,Male,15.7,97,100,Bachelor's,Yes,66.9,97,28-08-2024,2022
+STU-0164,Northview High,10,Female,10.8,79.1,89.2,High school,Yes,85.9,76.5,27-09-2024,2024
+STU-0165,Central High,10,Female,7.1,90.7,59.8,Some college,Yes,70.3,63.6,28-08-2024,2024
+STU-0166,Central High,12,Male,12.2,96.3,79.2,Bachelor's,Yes,63,91.2,30-05-2024,2023
+STU-0167,Northview High,10,Female,10.4,93.9,100,Some college,No,82.5,94.7,29-07-2024,2024
+STU-0168,Central High,9,Male,14.5,100,79.2,Bachelor's,Yes,83.6,94.9,30-04-2024,2024
+STU-0169,Northview High,10,Female,3.2,81.1,58.6,Bachelor's,Yes,88.3,70.4,30-04-2024,2022
+STU-0170,Central High,9,Female,7.4,75.6,100,Graduate,Yes,82.2,79.5,31-03-2024,2024
+STU-0171,Westfield School,9,Male,6.7,79.1,90.9,Graduate,Yes,85.1,72.8,01-03-2024,2021
+STU-0172,Westfield School,9,Female,1.9,93.9,81.1,Some college,Yes,80.3,62,26-11-2024,2023
+STU-0173,Northview High,12,Male,11.6,92.5,77.2,High school,Yes,73.7,70.6,29-07-2024,2023
+STU-0174,Central High,11,Male,7.3,88.9,96.1,Bachelor's,Yes,71.3,73.1,01-03-2024,2020
+STU-0175,Northview High,11,Female,10.6,77.9,75,Graduate,Yes,66.7,69.8,27-10-2024,2021
+STU-0176,Northview High,10,Female,15.8,94.9,96.9,Some college,Yes,53,69.9,31-01-2024,2024
+STU-0177,Northview High,11,Male,7.1,77,89,Some college,Yes,56.6,71.5,29-07-2024,2022
+STU-0178,Westfield School,9,Male,6.9,98.4,85.2,Some college,Yes,66.1,74.8,31-01-2024,2021
+STU-0179,Northview High,12,Female,8.6,100,83.9,High school,No,73.4,88.9,30-04-2024,2021
+STU-0180,Central High,11,Male,11.4,91.3,79.7,Bachelor's,Yes,90.2,81.8,29-07-2024,2023
+STU-0181,Westfield School,12,Female,6.4,93.2,95.6,Some college,Yes,69.4,76.5,26-11-2024,2024
+STU-0182,Northview High,9,Female,6.2,83.6,70.8,Bachelor's,Yes,84,81.2,26-11-2024,2024
+STU-0183,Northview High,10,Male,11.6,71.7,60.9,Bachelor's,Yes,85.1,79.1,27-10-2024,2022
+STU-0184,Northview High,11,Female,9.4,82.6,90,Bachelor's,Yes,66.8,85.4,01-03-2024,2021
+STU-0185,Westfield School,10,Male,1.7,78.2,90.2,Some college,Yes,78.3,74.3,31-01-2024,2020
+STU-0186,Central High,10,Male,4.3,75,88.2,Some college,Yes,66.6,70.1,27-10-2024,2022
+STU-0187,Northview High,9,Male,13,100,87.3,Bachelor's,Yes,88.5,91.5,26-11-2024,2024
+STU-0188,Central High,10,Male,9.5,90.5,77.8,Bachelor's,Yes,78.9,78,31-03-2024,2024
+STU-0189,Northview High,9,Female,5.8,91.4,92.2,Some college,Yes,53.3,58.8,01-01-2024,2022
+STU-0190,Central High,10,Female,7.7,85.2,81.4,Graduate,Yes,72.3,70.8,29-07-2024,2023
+STU-0191,Central High,11,Male,8.2,86.4,75.7,High school,Yes,93.1,73.5,01-01-2024,2022
+STU-0192,Westfield School,11,Male,10.6,96.7,77.9,Graduate,Yes,67.5,70,01-01-2024,2023
+STU-0193,Westfield School,11,Female,3.9,87.7,100,High school,Yes,76.3,74.1,26-11-2024,2023
+STU-0194,Central High,10,Male,5.5,92.8,59.4,High school,Yes,77.6,79.4,30-05-2024,2023
+STU-0195,Northview High,12,Female,9.1,86.2,88.5,Bachelor's,No,55.5,63.6,31-01-2024,2023
+STU-0196,Northview High,9,Male,7.9,84.9,60.2,High school,Yes,77.1,74.7,29-07-2024,2024
+STU-0197,Northview High,10,Female,10,75.3,80.6,High school,Yes,50.5,58.1,30-04-2024,2022
+STU-0198,Riverside Academy,9,Male,4.3,70.2,76.4,High school,No,61.2,54.1,29-06-2024,2020
+STU-0199,Westfield School,10,Female,9.3,85.6,54.9,Some college,Yes,85.1,69.2,27-10-2024,2021
+STU-0200,Westfield School,12,Female,11.7,88.5,87.1,Bachelor's,Yes,75,86.8,01-03-2024,2023
+STU-0201,Central High,10,Male,9.8,76.4,77.1,High school,Yes,65.7,63.6,29-07-2024,2023
+STU-0202,Northview High,12,Female,8.6,87.7,54.7,Bachelor's,Yes,76.3,85.7,27-09-2024,2023
+STU-0203,Westfield School,10,Female,7.9,88.5,92.9,Bachelor's,Yes,69.2,74.1,30-05-2024,2024
+STU-0204,Northview High,11,Male,5.5,68.6,100,High school,Yes,70.2,64.4,26-11-2024,2021
+STU-0205,Northview High,10,Female,8,79.8,100,High school,Yes,79.2,67.4,30-05-2024,2023
+STU-0206,Westfield School,10,Female,12.2,91.7,86.7,Graduate,Yes,59.8,81.4,30-05-2024,2024
+STU-0207,Central High,12,Female,7.8,91.5,82.6,Bachelor's,Yes,70.6,84.8,27-10-2024,2022
+STU-0208,Westfield School,12,Male,5.4,77.6,99.3,Bachelor's,Yes,65.6,73.2,29-07-2024,2022
+STU-0209,Northview High,10,Male,6.6,89.4,100,Bachelor's,No,47.8,87.3,27-10-2024,2021
+STU-0210,Westfield School,12,Male,8.8,97.2,96.7,High school,Yes,57.1,83.2,27-09-2024,2022
+STU-0211,Northview High,10,Female,7,95,69.8,Some college,Yes,92,79.7,28-08-2024,2024
+STU-0212,Central High,11,Female,9.8,87.1,84.6,Bachelor's,Yes,75.4,77.8,01-03-2024,2024
+STU-0213,Westfield School,12,Female,9.9,83.8,87.7,Some college,Yes,51.5,72.8,30-04-2024,2023
+STU-0214,Northview High,10,Male,11,82.3,58.5,Bachelor's,Yes,48.4,62.8,27-10-2024,2022
+STU-0215,Northview High,11,Female,12.8,92.2,88.1,Some college,No,68.4,89,29-07-2024,2023
+STU-0216,Northview High,10,Female,11.4,89.8,100,Bachelor's,Yes,91.9,95.9,31-03-2024,2024
+STU-0217,Central High,9,Male,5.2,93.7,90.3,Some college,Yes,67.4,74.9,31-03-2024,2022
+STU-0218,Riverside Academy,9,Male,5.3,89.2,100,Some college,Yes,88.3,86.8,27-09-2024,2024
+STU-0219,Central High,10,Male,8,95.4,84.4,High school,Yes,74.9,90,01-03-2024,2020
+STU-0220,Westfield School,12,Female,6.8,88.9,81,High school,Yes,76.6,72.7,31-01-2024,2020
+STU-0221,Westfield School,9,Male,4.6,95.1,87,Bachelor's,Yes,51.3,65.8,27-09-2024,2021
+STU-0222,Northview High,10,Male,6.8,95.8,71.4,High school,Yes,83.1,89.8,31-03-2024,2021
+STU-0223,Central High,11,Female,6.7,80.8,69.5,High school,Yes,65.3,73.7,27-09-2024,2024
+STU-0224,Riverside Academy,9,Male,6.1,71.7,98.5,High school,Yes,82.1,70.8,29-06-2024,2022
+STU-0225,Westfield School,11,Male,7.2,100,99.8,High school,No,58.6,66.7,26-11-2024,2021
+STU-0226,Westfield School,10,Female,12,90.3,69.1,Bachelor's,Yes,72.5,80.5,29-06-2024,2022
+STU-0227,Westfield School,12,Male,8.8,72.6,94.6,Some college,Yes,74.9,77.4,27-10-2024,2022
+STU-0228,Central High,11,Male,16.1,81.6,80.9,Graduate,Yes,67.8,73.5,27-10-2024,2022
+STU-0229,Northview High,11,Male,8.7,94.9,86.4,High school,Yes,75.7,65.6,01-03-2024,2021
+STU-0230,Riverside Academy,9,Male,7.3,85.5,88,Bachelor's,Yes,66.3,67.6,26-11-2024,2023
+STU-0231,Riverside Academy,10,Male,8.2,83.4,94.9,Some college,Yes,60.9,64.9,28-08-2024,2021
+STU-0232,Riverside Academy,12,Male,9,100,83.1,Some college,Yes,92.5,80.8,31-01-2024,2024
+STU-0233,Northview High,9,Female,9.6,78.6,100,Graduate,Yes,84.7,92.9,01-01-2024,2021
+STU-0234,Northview High,12,Male,14.8,80.8,86,Graduate,Yes,59.3,81.9,31-03-2024,2024
+STU-0235,Northview High,10,Male,5.5,89.9,90.1,Graduate,Yes,78,83,01-01-2024,2024
+STU-0236,Riverside Academy,11,Male,10.9,91.5,71.2,High school,No,59.6,56.9,30-04-2024,2021
+STU-0237,Riverside Academy,11,Female,8.9,92.5,100,High school,Yes,53.4,67.4,26-11-2024,2020
+STU-0238,Westfield School,10,Female,3.2,96.2,88.1,Bachelor's,Yes,84.5,81.8,30-05-2024,2024
+STU-0239,Westfield School,10,Male,10.7,89.8,91.3,Some college,No,46.1,70.7,01-01-2024,2022
+STU-0240,Riverside Academy,11,Male,12.3,92.4,61.1,Bachelor's,Yes,83,77.8,30-05-2024,2023
+STU-0241,Riverside Academy,9,Male,5.5,85.7,71.3,Bachelor's,Yes,66.5,72.1,01-03-2024,2020
+STU-0242,Northview High,11,Female,8.2,88.6,98.1,Bachelor's,Yes,67,98.8,27-10-2024,2021
+STU-0243,Westfield School,9,Female,2.7,89,85.7,Bachelor's,Yes,75.7,71.3,31-01-2024,2023
+STU-0244,Riverside Academy,11,Male,4.2,89.9,57.1,Bachelor's,Yes,78.1,66,27-09-2024,2024
+STU-0245,Northview High,11,Female,11.6,95,95.5,High school,Yes,58.4,76,30-05-2024,2021
+STU-0246,Riverside Academy,9,Male,6.7,93,74.9,High school,Yes,80,75.1,01-01-2024,2024
+STU-0247,Riverside Academy,12,Female,4.7,88.4,100,Bachelor's,Yes,71.6,75.1,28-08-2024,2023
+STU-0248,Northview High,10,Female,8.9,80.7,80.9,Some college,Yes,52.4,69.6,30-05-2024,2020
+STU-0249,Westfield School,12,Male,6.5,88.6,84.7,Some college,Yes,67.6,58.7,27-09-2024,2022
+STU-0250,Westfield School,9,Female,6.7,87.7,97.3,Some college,Yes,89.3,72,29-07-2024,2021
+STU-0251,Westfield School,9,Male,10.6,89.7,70.3,Bachelor's,Yes,93.5,83.2,27-09-2024,2022
+STU-0252,Westfield School,10,Male,4.5,100,69.1,Bachelor's,No,80,69.3,30-05-2024,2023
+STU-0253,Westfield School,9,Male,5.3,83.3,79.4,Bachelor's,Yes,53.3,60,01-01-2024,2022
+STU-0254,Riverside Academy,10,Female,8.7,91.8,92.8,Some college,Yes,76.9,78.9,31-01-2024,2021
+STU-0255,Central High,11,Female,11.3,97.6,64.7,Some college,Yes,81.9,82.1,30-05-2024,2023
+STU-0256,Westfield School,9,Male,12.2,88.9,60.3,Bachelor's,Yes,80.2,87.6,30-04-2024,2023
+STU-0257,Riverside Academy,11,Female,6.1,100,92.7,Some college,Yes,81,79.6,27-09-2024,2023
+STU-0258,Westfield School,9,Female,11.2,84.6,74.2,Bachelor's,Yes,75.1,81.8,30-04-2024,2023
+STU-0259,Riverside Academy,9,Female,5.7,90.9,76.9,Bachelor's,No,69,65.1,27-10-2024,2021
+STU-0260,Riverside Academy,11,Male,14,80.8,57.9,High school,Yes,61.5,76.3,01-03-2024,2023
+STU-0261,Westfield School,12,Female,4.6,84.8,73.2,High school,No,43.4,54.7,30-04-2024,2022
+STU-0262,Central High,9,Female,12.5,90.2,81.9,High school,No,74.8,82.4,27-09-2024,2022
+STU-0263,Central High,10,Male,6.1,95.6,94.1,Graduate,Yes,72.6,86,31-01-2024,2021
+STU-0264,Riverside Academy,12,Female,14.6,90.9,72,Bachelor's,Yes,77.8,91.3,31-03-2024,2023
+STU-0265,Riverside Academy,12,Male,10.1,99.3,100,High school,Yes,51.3,72.6,27-09-2024,2023
+STU-0266,Central High,11,Male,4.9,87.1,73.1,Graduate,No,79,74,29-07-2024,2022
+STU-0267,Riverside Academy,10,Male,6.5,85,73.1,Some college,Yes,98.8,90.1,27-09-2024,2024
+STU-0268,Central High,10,Male,10.7,100,100,Some college,Yes,71.1,77.4,29-06-2024,2024
+STU-0269,Riverside Academy,11,Female,11.6,91.5,84.7,Graduate,No,69.1,74,27-10-2024,2020
+STU-0270,Northview High,11,Female,8,81.5,74.8,High school,Yes,74.3,74.5,27-10-2024,2023
+STU-0271,Northview High,10,Female,8.3,81.8,80,High school,Yes,98.5,85.9,26-11-2024,2022
+STU-0272,Central High,9,Female,10.6,79.5,99.6,Bachelor's,Yes,55.7,68.5,31-01-2024,2024
+STU-0273,Northview High,9,Male,8.6,96.4,100,High school,No,72.8,75.3,29-07-2024,2021
+STU-0274,Northview High,12,Male,4.1,84.7,71.4,Bachelor's,No,58.8,63,31-01-2024,2022
+STU-0275,Riverside Academy,10,Male,5.6,89.1,81.4,High school,Yes,62.3,48.4,01-03-2024,2022
+STU-0276,Northview High,10,Male,9,87.4,83.2,High school,Yes,69.3,73,31-03-2024,2021
+STU-0277,Riverside Academy,10,Male,12.1,94.6,69.2,High school,Yes,88.9,81.6,29-07-2024,2023
+STU-0278,Westfield School,12,Female,13.4,80.4,81.3,Some college,Yes,95.2,84.7,30-05-2024,2023
+STU-0279,Northview High,9,Female,10.7,78.3,82.1,High school,Yes,76.3,89.2,27-10-2024,2021
+STU-0280,Central High,9,Male,9.1,90,96.8,High school,Yes,64.7,63.7,31-03-2024,2023
+STU-0281,Central High,10,Female,10.6,93.4,97.7,Graduate,Yes,99,87.2,29-07-2024,2024
+STU-0282,Riverside Academy,10,Male,6.1,91,77.7,Some college,Yes,64,48.4,27-09-2024,2024
+STU-0283,Northview High,11,Male,7.7,80.7,79.2,Some college,Yes,62,67.4,26-11-2024,2023
+STU-0284,Westfield School,10,Male,5.6,94.1,90.6,High school,Yes,45.2,58.3,01-03-2024,2022
+STU-0285,Northview High,10,Male,4.2,81.3,74.4,Some college,Yes,89.5,71.9,28-08-2024,2021
+STU-0286,Riverside Academy,12,Male,9.3,83.3,89.7,Some college,Yes,83.6,90.6,31-01-2024,2024
+STU-0287,Central High,9,Male,8.8,79.5,80.9,Bachelor's,Yes,99,92.6,29-06-2024,2024
+STU-0288,Central High,11,Male,10.4,99.7,69.4,High school,Yes,50.5,69.2,30-04-2024,2023
+STU-0289,Westfield School,11,Female,9.9,93.7,69.6,Graduate,Yes,90.4,81.7,26-11-2024,2024
+STU-0290,Riverside Academy,10,Female,9,93.4,100,Graduate,Yes,71,92.4,27-09-2024,2021
+STU-0291,Westfield School,12,Male,10,99.2,80,High school,No,81.3,74.3,26-11-2024,2023
+STU-0292,Westfield School,10,Male,8.1,100,100,High school,Yes,46.9,60.8,27-10-2024,2021
+STU-0293,Riverside Academy,12,Male,9.5,72.6,75.3,High school,Yes,90.6,62.5,30-04-2024,2021
+STU-0294,Westfield School,10,Male,5.9,81.4,85.8,Bachelor's,Yes,81,71.7,28-08-2024,2022
+STU-0295,Northview High,11,Male,9.4,82.5,100,High school,Yes,69.5,83.3,01-01-2024,2022
+STU-0296,Northview High,11,Male,10.3,80.3,68.3,Bachelor's,Yes,79,99.9,29-06-2024,2024
+STU-0297,Riverside Academy,12,Male,6.1,78.3,57.3,Bachelor's,No,59.3,61.9,01-01-2024,2022
+STU-0298,Northview High,10,Female,8.4,85.3,98.7,Bachelor's,Yes,61.9,71.5,28-08-2024,2024
+STU-0299,Northview High,10,Female,6.2,77.1,71.3,Bachelor's,Yes,63.5,60.3,26-11-2024,2024
+STU-0300,Central High,9,Female,6.5,91,81.7,Graduate,Yes,44.1,72.6,28-08-2024,2023
+STU-0301,Central High,10,Female,4.6,88.5,74.4,High school,Yes,82.1,56,27-10-2024,2024
+STU-0302,Westfield School,12,Male,12.3,92.3,85.5,Some college,Yes,86.7,89.5,01-03-2024,2022
+STU-0303,Central High,9,Female,11.6,92.6,69.6,Some college,Yes,60.2,81.2,26-11-2024,2022
+STU-0304,Central High,12,Female,9.9,93.4,79.7,Graduate,No,74.9,82.2,29-06-2024,2021
+STU-0305,Northview High,11,Female,14.5,84.6,87.8,Bachelor's,Yes,66.3,83,28-08-2024,2021
+STU-0306,Riverside Academy,9,Male,7.6,100,68.9,Bachelor's,Yes,74.6,83.2,27-09-2024,2024
+STU-0307,Riverside Academy,10,Male,17.9,90.1,72.9,High school,Yes,61.2,81.3,29-07-2024,2023
+STU-0308,Northview High,11,Female,7.5,71.2,77.5,Graduate,Yes,57.6,64.4,31-03-2024,2022
+STU-0309,Westfield School,10,Male,9,79,63.4,Some college,Yes,84.7,90.2,29-07-2024,2021
+STU-0310,Riverside Academy,9,Male,6.9,72.3,76.5,Some college,Yes,69.1,66.4,29-07-2024,2023
+STU-0311,Riverside Academy,11,Male,9.4,88.2,83.5,Graduate,Yes,98.3,96.5,27-10-2024,2024
+STU-0312,Northview High,11,Male,10.9,86.9,76.8,Some college,Yes,70.6,58.4,30-05-2024,2022
+STU-0313,Northview High,9,Male,7.8,83.8,78.5,Some college,No,57,77.3,29-06-2024,2024
+STU-0314,Central High,10,Female,13.9,100,81.7,Bachelor's,Yes,87.2,100,29-06-2024,2023
+STU-0315,Northview High,9,Male,9,92.9,73.5,High school,Yes,78.8,78,31-01-2024,2024
+STU-0316,Northview High,11,Female,9.1,94.5,91,Some college,Yes,80.2,88.5,31-01-2024,2021
+STU-0317,Riverside Academy,11,Female,5.3,79.6,100,High school,Yes,86.7,80.7,01-01-2024,2023
+STU-0318,Riverside Academy,11,Male,9.5,79,76,High school,No,60.9,58.9,29-07-2024,2021
+STU-0319,Westfield School,12,Male,7.8,88.3,88.3,Graduate,No,68.2,77.2,30-05-2024,2022
+STU-0320,Riverside Academy,12,Male,6.3,89.6,78.9,Bachelor's,No,67.6,63,27-10-2024,2024
+STU-0321,Northview High,10,Female,5.7,71.3,86.8,Some college,Yes,51.9,59.8,28-08-2024,2023
+STU-0322,Northview High,9,Female,16.7,86.4,100,Some college,Yes,66.3,97.2,31-01-2024,2021
+STU-0323,Central High,11,Female,7.4,88.1,88.6,Some college,Yes,88.7,89.3,31-01-2024,2024
+STU-0324,Westfield School,12,Male,3.5,86.1,58.9,Bachelor's,Yes,73.3,61,30-04-2024,2020
+STU-0325,Westfield School,12,Male,6,80.7,87.9,Graduate,Yes,51.2,60.8,26-11-2024,2023
+STU-0326,Westfield School,9,Male,8,83.1,98,Graduate,Yes,48.2,65,01-01-2024,2024
+STU-0327,Westfield School,9,Male,9.9,86.4,79.1,Some college,No,93.3,84.5,01-03-2024,2023
+STU-0328,Northview High,9,Female,10,88.8,94.9,Some college,Yes,68.7,71.8,01-01-2024,2024
+STU-0329,Riverside Academy,9,Female,10.4,93.4,73,Some college,Yes,60.9,77.3,30-04-2024,2023
+STU-0330,Riverside Academy,11,Female,6.1,97.7,62.7,Bachelor's,Yes,66.2,78.8,26-11-2024,2024
+STU-0331,Riverside Academy,11,Female,9.3,85.4,83.8,Some college,Yes,49.3,68.3,28-08-2024,2023
+STU-0332,Central High,10,Female,5.4,83.9,59.2,Bachelor's,Yes,89.9,84.5,30-05-2024,2023
+STU-0333,Riverside Academy,10,Female,6.2,91.9,78.9,Bachelor's,Yes,64.5,70.7,31-01-2024,2021
+STU-0334,Westfield School,12,Female,5.3,93.5,98.7,Some college,No,89.1,74.1,30-04-2024,2024
+STU-0335,Central High,10,Male,4.4,84.1,57.2,Some college,Yes,70.7,57.7,29-06-2024,2021
+STU-0336,Riverside Academy,12,Female,11.6,95.1,65.4,Some college,Yes,90,93.4,31-03-2024,2024
+STU-0337,Central High,12,Female,10.4,96.8,68.6,High school,Yes,73.6,69.1,28-08-2024,2021
+STU-0338,Westfield School,10,Female,11.3,99.6,81.2,High school,Yes,81.9,83.5,26-11-2024,2021
+STU-0339,Central High,9,Female,8.3,100,77.2,Bachelor's,Yes,80.1,81.3,01-03-2024,2024
+STU-0340,Riverside Academy,12,Male,10.7,80.2,100,Some college,Yes,78.7,73.1,31-03-2024,2021
+STU-0341,Riverside Academy,11,Female,2.6,88.1,94.4,High school,Yes,74.9,64.5,31-01-2024,2022
+STU-0342,Riverside Academy,10,Female,11,88.1,88.4,Bachelor's,Yes,66.7,91.9,28-08-2024,2024
+STU-0343,Northview High,11,Female,8.8,87.1,83.9,Bachelor's,Yes,96.8,90.2,30-05-2024,2021
+STU-0344,Riverside Academy,11,Male,10.2,82.2,87.1,Some college,Yes,57.3,64.1,31-03-2024,2021
+STU-0345,Central High,12,Male,9.4,74.6,70.8,Bachelor's,Yes,70.1,76.3,01-03-2024,2023
+STU-0346,Westfield School,10,Female,5,88.8,93.1,Graduate,Yes,70.2,73.7,01-01-2024,2021
+STU-0347,Northview High,12,Female,3.4,81.1,67.5,Bachelor's,Yes,75.6,100,30-05-2024,2021
+STU-0348,Riverside Academy,12,Female,5.9,88.8,92.9,Bachelor's,Yes,64,76.7,28-08-2024,2020
+STU-0349,Northview High,9,Female,10,80.9,97.4,High school,Yes,74.4,75.4,01-03-2024,2022
+STU-0350,Northview High,9,Male,10.4,78.1,84.7,Graduate,Yes,67.6,92.4,01-01-2024,2022
+STU-0351,Central High,11,Male,3.8,90.1,79.7,Some college,Yes,47.9,46.5,30-05-2024,2020
+STU-0352,Riverside Academy,9,Male,5.1,89.4,87.2,Graduate,Yes,70.1,76.9,28-08-2024,2023
+STU-0353,Riverside Academy,10,Female,5.9,93.2,44.8,Bachelor's,Yes,54.6,81.6,30-04-2024,2023
+STU-0354,Westfield School,10,Female,7.1,100,85.9,High school,Yes,45.7,63.1,31-03-2024,2020
+STU-0355,Northview High,12,Female,3.8,90.5,80.5,High school,No,71.9,51.3,31-01-2024,2022
+STU-0356,Northview High,12,Female,3.6,92.4,81.3,Bachelor's,Yes,76.8,73.1,28-08-2024,2024
+STU-0357,Westfield School,9,Male,5.6,78.3,91.2,Bachelor's,Yes,77.4,86.4,27-10-2024,2023
+STU-0358,Westfield School,12,Female,8.5,76.4,81,High school,Yes,77.9,74.4,27-09-2024,2022
+STU-0359,Central High,9,Female,4.4,100,67.2,Bachelor's,Yes,42.9,56.1,29-06-2024,2022
+STU-0360,Westfield School,11,Male,7.8,79.7,80.2,Bachelor's,Yes,50.9,60.5,28-08-2024,2021
+STU-0361,Riverside Academy,12,Female,11.6,78.6,82.9,Some college,Yes,97.6,81.9,30-04-2024,2024
+STU-0362,Westfield School,12,Female,4,87.6,83.5,Some college,Yes,55.3,66.6,01-01-2024,2024
+STU-0363,Central High,9,Female,7.5,87.2,84.1,High school,Yes,78.6,85.8,30-04-2024,2024
+STU-0364,Westfield School,12,Female,11.5,79.9,95.5,Bachelor's,Yes,60.4,85,28-08-2024,2021
+STU-0365,Central High,9,Female,6.9,85.3,67.9,Some college,Yes,71.1,74.7,29-07-2024,2022
+STU-0366,Central High,11,Female,6.4,99.1,84.3,Graduate,Yes,61.1,64.2,26-11-2024,2021
+STU-0367,Central High,10,Female,11.9,80.7,98.8,Some college,Yes,77.9,71.4,26-11-2024,2022
+STU-0368,Northview High,10,Female,7.2,75.5,59.5,Bachelor's,Yes,71.9,76.8,01-03-2024,2022
+STU-0369,Westfield School,9,Female,11.7,96.5,84.3,Some college,Yes,63.7,65.7,01-01-2024,2023
+STU-0370,Riverside Academy,12,Male,9.6,92.4,74.4,High school,Yes,55.3,67,31-03-2024,2021
+STU-0371,Westfield School,10,Female,7.1,82.4,77.2,Bachelor's,Yes,73.7,75.9,27-10-2024,2024
+STU-0372,Westfield School,11,Male,9.7,73.8,70.2,Some college,Yes,53,54.8,27-09-2024,2020
+STU-0373,Central High,10,Male,9.2,81.3,79.8,Bachelor's,Yes,76,69.5,31-01-2024,2020
+STU-0374,Central High,10,Female,11.5,87.5,100,Graduate,Yes,99,93.5,31-01-2024,2024
+STU-0375,Northview High,12,Male,6.4,98.5,65.6,Graduate,Yes,88.9,88.5,29-06-2024,2024
+STU-0376,Westfield School,9,Female,8.3,78.7,66.8,Bachelor's,Yes,80.1,83.6,29-07-2024,2022
+STU-0377,Westfield School,11,Female,8,87.2,65.1,High school,Yes,68.8,72.5,26-11-2024,2023
+STU-0378,Riverside Academy,11,Female,10.5,94.1,100,Bachelor's,Yes,42.9,75,27-09-2024,2021
+STU-0379,Northview High,10,Female,4.9,66.6,76,Graduate,Yes,51.5,58.5,01-03-2024,2021
+STU-0380,Northview High,10,Female,11.5,97.3,81.7,Some college,Yes,88,79.2,01-01-2024,2023
+STU-0381,Westfield School,9,Female,9.7,77.4,76.8,High school,No,58.9,57.3,29-07-2024,2022
+STU-0382,Riverside Academy,12,Male,4,91,69.7,Bachelor's,Yes,60.2,71.2,29-06-2024,2023
+STU-0383,Central High,12,Female,12.1,90.2,78.9,Some college,Yes,67.7,81.1,26-11-2024,2021
+STU-0384,Riverside Academy,9,Male,15.3,97.8,100,Bachelor's,Yes,55.1,67.1,29-06-2024,2023
+STU-0385,Central High,9,Male,11.4,93,100,Graduate,Yes,52.8,73,29-06-2024,2024
+STU-0386,Riverside Academy,9,Male,12.8,66.6,70.9,Bachelor's,Yes,69.3,86.4,31-03-2024,2021
+STU-0387,Central High,9,Female,8.5,80.9,90.4,Some college,Yes,57.5,71.2,31-01-2024,2020
+STU-0388,Northview High,12,Male,2.9,89.2,71.2,Some college,Yes,59.6,53.6,27-10-2024,2022
+STU-0389,Westfield School,12,Male,2.3,86.2,58.9,Some college,No,59.1,74.8,27-09-2024,2024
+STU-0390,Central High,9,Male,9,92.3,95.3,High school,Yes,77.3,78.2,31-01-2024,2023
+STU-0391,Central High,11,Female,6.3,95.1,97.1,Bachelor's,Yes,66.8,80.3,28-08-2024,2024
+STU-0392,Central High,9,Male,5.3,93.5,95.6,Bachelor's,No,67.5,74.9,30-04-2024,2022
+STU-0393,Northview High,10,Male,8,86.1,75.9,Some college,Yes,78.4,74.8,30-05-2024,2021
+STU-0394,Riverside Academy,11,Female,10.2,71.4,79.8,Some college,Yes,68,66.9,27-10-2024,2023
+STU-0395,Northview High,11,Female,3.6,83.9,91.7,Graduate,Yes,66.1,92.1,27-10-2024,2021
+STU-0396,Northview High,12,Female,6.8,91.7,87.1,High school,Yes,76.6,84.8,01-03-2024,2024
+STU-0397,Westfield School,9,Male,13,78.2,76.9,Bachelor's,Yes,79.4,88.1,31-03-2024,2021
+STU-0398,Westfield School,9,Female,4.8,93.7,61,Some college,Yes,67.9,71.4,27-09-2024,2022
+STU-0399,Westfield School,10,Female,11,96.2,83.5,Bachelor's,Yes,71.1,72,26-11-2024,2023
+STU-0400,Central High,10,Male,6.6,89.1,96,High school,Yes,59.1,79.8,01-01-2024,2023
+STU-0401,Westfield School,12,Female,9.9,60.4,66.4,Bachelor's,Yes,58,58,27-10-2024,2023
+STU-0402,Central High,12,Female,11.7,76.5,90.3,Some college,Yes,80.8,83.7,30-05-2024,2022
+STU-0403,Northview High,10,Male,10.6,100,86.3,Bachelor's,Yes,76.2,72.6,29-07-2024,2024
+STU-0404,Northview High,12,Male,11.1,83.1,91.8,High school,No,76.4,58.8,01-01-2024,2024
+STU-0405,Westfield School,10,Male,4.5,70.1,93.3,Some college,Yes,73.9,71.1,28-08-2024,2024
+STU-0406,Central High,11,Male,11.8,99.1,73,Bachelor's,Yes,70.6,74.9,28-08-2024,2023
+STU-0407,Northview High,10,Female,5.5,88.1,61,High school,Yes,79.7,54.3,29-07-2024,2023
+STU-0408,Riverside Academy,9,Male,9,97.9,75.1,High school,Yes,83.1,83.6,27-09-2024,2023
+STU-0409,Westfield School,12,Male,9,90.5,93.6,High school,Yes,82.8,96.2,26-11-2024,2022
+STU-0410,Northview High,9,Female,9.8,92.1,75,Some college,Yes,68.6,89.5,27-10-2024,2022
+STU-0411,Riverside Academy,9,Female,9.3,91.3,73,High school,Yes,89.4,77.6,28-08-2024,2023
+STU-0412,Central High,9,Female,5.5,94.3,58.3,Graduate,No,73.2,69.9,26-11-2024,2020
+STU-0413,Westfield School,10,Female,3.9,100,100,Some college,Yes,78.9,83.8,28-08-2024,2020
+STU-0414,Northview High,9,Female,11,96.7,92.7,Bachelor's,Yes,73.9,96.1,28-08-2024,2024
+STU-0415,Central High,9,Female,8.8,73.8,92,Graduate,Yes,73.5,75.7,29-06-2024,2020
+STU-0416,Riverside Academy,11,Male,11.9,92,94.6,High school,No,59.7,72.3,27-09-2024,2023
+STU-0417,Central High,12,Female,8.1,98.3,89.5,Bachelor's,Yes,79.8,85.5,01-01-2024,2023
+STU-0418,Riverside Academy,9,Male,3.7,98.8,78.8,Graduate,Yes,99,89.7,29-06-2024,2021
+STU-0419,Westfield School,10,Male,11.3,84.2,79.9,Bachelor's,Yes,64.8,74.7,30-05-2024,2024
+STU-0420,Riverside Academy,11,Male,7,98.5,76.4,Some college,Yes,71,74.3,27-10-2024,2021
+STU-0421,Northview High,12,Male,9.3,96.3,100,Some college,Yes,63.8,91.9,01-01-2024,2024
+STU-0422,Central High,11,Female,6.1,100,89.2,High school,No,63.2,77.2,29-07-2024,2024
+STU-0423,Northview High,12,Male,13.5,81.2,76,Bachelor's,No,91.6,89.8,01-03-2024,2021
+STU-0424,Northview High,11,Female,5.4,83.4,88.1,Graduate,Yes,60.6,88.3,27-10-2024,2021
+STU-0425,Riverside Academy,10,Male,7.1,85.2,68.9,Graduate,Yes,63.4,69.3,27-10-2024,2022
+STU-0426,Westfield School,9,Female,8.5,83.6,100,High school,Yes,47.8,79.1,01-03-2024,2022
+STU-0427,Central High,12,Female,4.7,80,73.4,Bachelor's,No,59.4,66.7,27-10-2024,2021
+STU-0428,Central High,12,Male,9.3,63.1,88.5,Some college,Yes,46.1,91.5,30-05-2024,2024
+STU-0429,Riverside Academy,9,Female,13.4,84.1,95.9,Graduate,Yes,78.8,78.7,26-11-2024,2021
+STU-0430,Riverside Academy,11,Male,6.6,91.3,87,High school,Yes,99,76.2,28-08-2024,2024
+STU-0431,Northview High,9,Female,9.5,83.6,83.2,Graduate,Yes,64.9,82.7,01-01-2024,2021
+STU-0432,Westfield School,11,Female,1,100,82.1,Bachelor's,Yes,46.7,64.7,01-03-2024,2024
+STU-0433,Central High,12,Male,8.1,88.1,81.3,High school,No,82.6,88.8,30-04-2024,2021
+STU-0434,Westfield School,9,Male,7.2,99.6,74.5,High school,No,59.8,57.5,01-03-2024,2022
+STU-0435,Westfield School,10,Female,5.6,90.4,76.2,Bachelor's,No,88.2,81.6,31-01-2024,2023
+STU-0436,Riverside Academy,9,Female,11.7,95.4,100,High school,Yes,66.1,89.3,26-11-2024,2021
+STU-0437,Central High,11,Female,7.2,90.5,80.6,Bachelor's,Yes,61.2,78.7,27-10-2024,2024
+STU-0438,Riverside Academy,12,Male,7.6,100,71.8,Graduate,Yes,67.5,69.8,30-05-2024,2021
+STU-0439,Northview High,9,Male,7,88.5,75.3,Bachelor's,Yes,80.6,91.9,01-03-2024,2023
+STU-0440,Riverside Academy,10,Female,2.1,92.5,96.3,Some college,Yes,66.8,80.5,01-03-2024,2023
+STU-0441,Northview High,12,Female,4.6,91.3,90.8,Some college,Yes,63,77.2,27-10-2024,2023
+STU-0442,Northview High,10,Female,11.3,85.4,89.3,High school,Yes,67.2,79,31-03-2024,2020
+STU-0443,Northview High,9,Female,1.4,91.6,78.7,Graduate,Yes,52.2,68.5,01-01-2024,2021
+STU-0444,Riverside Academy,10,Male,5.7,100,89.5,Some college,Yes,75.6,77,30-04-2024,2021
+STU-0445,Westfield School,11,Male,6.9,85.6,73.6,High school,Yes,45,64.4,30-05-2024,2022
+STU-0446,Riverside Academy,11,Female,13.8,91.8,78.6,Some college,Yes,63.8,79.9,29-07-2024,2021
+STU-0447,Riverside Academy,10,Male,10.7,99.3,94.6,Graduate,Yes,80.6,82,30-04-2024,2024
+STU-0448,Central High,12,Female,6.4,98.3,93.4,High school,Yes,74.2,66.4,26-11-2024,2023
+STU-0449,Westfield School,11,Female,12.4,88.1,69.2,Graduate,Yes,78.3,76,29-07-2024,2023
+STU-0450,Westfield School,10,Female,5.8,66.5,70.9,Bachelor's,Yes,69.1,68,26-11-2024,2022
+STU-0451,Northview High,12,Female,11.4,92.7,83.4,Bachelor's,Yes,86.4,88.8,30-04-2024,2021
+STU-0452,Central High,12,Female,3.9,68,100,Graduate,Yes,82.9,78.1,29-07-2024,2023
+STU-0453,Northview High,10,Male,11.6,100,57.1,Bachelor's,Yes,76.2,87.6,30-04-2024,2022
+STU-0454,Riverside Academy,9,Male,6.9,89.5,85.6,Graduate,Yes,83,77.1,28-08-2024,2022
+STU-0455,Central High,11,Female,4.9,97,64.1,High school,Yes,80.5,83.5,28-08-2024,2022
+STU-0456,Riverside Academy,11,Male,7.5,79.9,73.8,Bachelor's,Yes,63.8,69.1,31-03-2024,2023
+STU-0457,Westfield School,9,Male,9.1,74,77.3,Bachelor's,Yes,51.2,62.6,26-11-2024,2024
+STU-0458,Westfield School,11,Male,6.6,90.3,76.5,Bachelor's,Yes,75.9,79.1,27-10-2024,2021
+STU-0459,Westfield School,12,Male,10,87.7,75.1,Graduate,Yes,77.6,64.6,27-10-2024,2023
+STU-0460,Riverside Academy,9,Female,6.3,83.6,82.1,Graduate,Yes,85.3,74.1,01-03-2024,2021
+STU-0461,Northview High,11,Male,10.2,88.8,75,Bachelor's,Yes,56.9,83.9,28-08-2024,2022
+STU-0462,Riverside Academy,9,Male,9.6,100,63,Some college,Yes,57.3,57.2,31-01-2024,2024
+STU-0463,Northview High,11,Male,8,95.5,92.1,Some college,Yes,76.4,91.1,31-01-2024,2021
+STU-0464,Central High,10,Female,6.8,97.4,91.8,Some college,Yes,69,88.9,26-11-2024,2023
+STU-0465,Northview High,9,Female,8.7,95.6,93,Some college,Yes,43.6,68.2,31-01-2024,2022
+STU-0466,Westfield School,12,Female,10,100,62,Some college,Yes,75.3,78.8,27-10-2024,2020
+STU-0467,Central High,9,Female,14.8,86.3,85.9,High school,Yes,44.1,80.7,30-05-2024,2024
+STU-0468,Central High,11,Female,11.2,69.5,90.8,High school,Yes,56.8,64.7,31-03-2024,2022
+STU-0469,Riverside Academy,9,Female,11.3,86.3,68.6,Bachelor's,Yes,88.9,92.2,01-01-2024,2024
+STU-0470,Riverside Academy,12,Male,18.1,95.3,82.1,Some college,No,95.5,87,28-08-2024,2022
+STU-0471,Central High,11,Female,9.9,79.3,80.5,Graduate,Yes,53,68.2,28-08-2024,2024
+STU-0472,Westfield School,12,Male,9.8,86.4,100,Bachelor's,Yes,65.4,70.9,30-05-2024,2022
+STU-0473,Central High,10,Female,10.5,81.8,100,High school,No,70.6,75.3,27-09-2024,2022
+STU-0474,Central High,10,Male,5,100,60.4,High school,Yes,94.9,85.9,31-03-2024,2024
+STU-0475,Central High,11,Female,6.8,94.7,100,High school,Yes,63.1,70.6,29-06-2024,2022
+STU-0476,Northview High,12,Male,6.6,93.9,70.1,Graduate,Yes,63.3,64.6,31-03-2024,2022
+STU-0477,Westfield School,12,Female,10.3,93.6,94.7,High school,Yes,91.7,74.2,29-06-2024,2024
+STU-0478,Northview High,9,Female,7.6,87.7,94.6,Some college,Yes,64.8,79.4,31-01-2024,2023
+STU-0479,Westfield School,11,Female,8.6,89.8,69.1,Graduate,Yes,80.1,94.7,30-05-2024,2023
+STU-0480,Central High,9,Male,11.7,77.3,88.4,Graduate,No,49.3,73.3,29-06-2024,2023
