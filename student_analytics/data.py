@@ -5,7 +5,7 @@ from pathlib import Path
 import pandas as pd
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
-SAMPLE_DATA_PATH = PROJECT_ROOT / "data" / "student_performance.csv"
+SAMPLE_DATA_PATH = PROJECT_ROOT / "data" / "student_performance1.csv"
 
 REQUIRED_COLUMNS = {
     "student_id",
